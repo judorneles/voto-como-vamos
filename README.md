@@ -4,7 +4,7 @@ Voto Como Vamos
 ================
 
 O Voto Como Vamos será uma aplicação no Facebook que vai revolucionar a relação eleitor-candidato.
-Nele você vai saber tudo sobre as propostas e candidatos das próximas eleições de maneira simples, didática e rápida.
+Nela você vai saber tudo sobre as propostas e candidatos das próximas eleições de maneira simples, didática e rápida.
 
 Idealizadores:
 -------------
